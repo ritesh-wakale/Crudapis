@@ -7,4 +7,3 @@ git remote add origin https://github.com/ritesh-wakale/Crudapis.git
 git push -u origin main
 
 
-https://github.com/ritesh-wakale/Crudapis.git
