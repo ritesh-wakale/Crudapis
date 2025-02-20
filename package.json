@@ -1,0 +1,17 @@
+{
+  "name": "my-express-app",
+  "version": "1.0.0",
+  "description": "A simple Express app",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon --env-file=.env src/app.js"
+  },
+  "keywords": [],
+  "author": "Developer A",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "init": "^0.1.2"
+  }
+}
